@@ -1,0 +1,4 @@
+PAQUETES
+React router dom
+Styled components
+
